@@ -1,0 +1,26 @@
+C:\Users\gurka\source\repos\EtutOtomasyon\bin\Debug\EtutOtomasyon.exe.config
+C:\Users\gurka\source\repos\EtutOtomasyon\bin\Debug\EtutOtomasyon.exe
+C:\Users\gurka\source\repos\EtutOtomasyon\bin\Debug\EtutOtomasyon.pdb
+C:\Users\gurka\source\repos\EtutOtomasyon\obj\Debug\EtutOtomasyon.csproj.AssemblyReference.cache
+C:\Users\gurka\source\repos\EtutOtomasyon\obj\Debug\EtutOtomasyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\gurka\source\repos\EtutOtomasyon\obj\Debug\EtutOtomasyon.Form1.resources
+C:\Users\gurka\source\repos\EtutOtomasyon\obj\Debug\EtutOtomasyon.FormEtutEkle.resources
+C:\Users\gurka\source\repos\EtutOtomasyon\obj\Debug\EtutOtomasyon.Properties.Resources.resources
+C:\Users\gurka\source\repos\EtutOtomasyon\obj\Debug\EtutOtomasyon.csproj.GenerateResource.cache
+C:\Users\gurka\source\repos\EtutOtomasyon\obj\Debug\EtutOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\gurka\source\repos\EtutOtomasyon\obj\Debug\EtutOtomasyon.exe
+C:\Users\gurka\source\repos\EtutOtomasyon\obj\Debug\EtutOtomasyon.pdb
+C:\Users\gurka\source\repos\EtutOtomasyon\obj\Debug\EtutOtomasyon.FormEtutGuncelle.resources
+C:\Users\Mehmet Can\Desktop\EtutOtomasyon\EtutOtomasyon\bin\Debug\EtutOtomasyon.exe.config
+C:\Users\Mehmet Can\Desktop\EtutOtomasyon\EtutOtomasyon\bin\Debug\EtutOtomasyon.exe
+C:\Users\Mehmet Can\Desktop\EtutOtomasyon\EtutOtomasyon\bin\Debug\EtutOtomasyon.pdb
+C:\Users\Mehmet Can\Desktop\EtutOtomasyon\EtutOtomasyon\obj\Debug\EtutOtomasyon.csproj.AssemblyReference.cache
+C:\Users\Mehmet Can\Desktop\EtutOtomasyon\EtutOtomasyon\obj\Debug\EtutOtomasyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mehmet Can\Desktop\EtutOtomasyon\EtutOtomasyon\obj\Debug\EtutOtomasyon.Form1.resources
+C:\Users\Mehmet Can\Desktop\EtutOtomasyon\EtutOtomasyon\obj\Debug\EtutOtomasyon.FormEtutEkle.resources
+C:\Users\Mehmet Can\Desktop\EtutOtomasyon\EtutOtomasyon\obj\Debug\EtutOtomasyon.FormEtutGuncelle.resources
+C:\Users\Mehmet Can\Desktop\EtutOtomasyon\EtutOtomasyon\obj\Debug\EtutOtomasyon.Properties.Resources.resources
+C:\Users\Mehmet Can\Desktop\EtutOtomasyon\EtutOtomasyon\obj\Debug\EtutOtomasyon.csproj.GenerateResource.cache
+C:\Users\Mehmet Can\Desktop\EtutOtomasyon\EtutOtomasyon\obj\Debug\EtutOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Can\Desktop\EtutOtomasyon\EtutOtomasyon\obj\Debug\EtutOtomasyon.exe
+C:\Users\Mehmet Can\Desktop\EtutOtomasyon\EtutOtomasyon\obj\Debug\EtutOtomasyon.pdb
